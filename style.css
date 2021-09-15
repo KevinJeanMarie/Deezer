@@ -5,20 +5,23 @@ header img
 
 header nav
 {
-    padding-left: 60%;
+    padding-left: 65%;
     font-size: 20px;
     margin-top: -30px;
 }
 
-span
+span h1
 {
-    font-size: 25px;
+    font-size: 45px;
+    margin-left: 10%;
     
 }
 
 span h2
 {
     color: #ef5466;
+    font-size: 35px;
+    margin-left: 10%;
 }
 
 div img
@@ -33,3 +36,34 @@ div img
      width: 300px;
      margin-left: 10%;
  }
+
+section h1
+ {
+     margin-left: 35%;
+     margin-top: -35%;
+     font-size: 42px;
+ }
+
+ #toute
+ {
+    margin-left: 35%;
+    
+ }
+
+ #bibliothèque
+ {
+    margin-left: 35%;
+ }
+
+ #wifi
+
+{
+    margin-left: 60%;
+    margin-top: -21%;
+}
+
+#ressemble 
+{
+    margin-left: 60%;
+}
+
