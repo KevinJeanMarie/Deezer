@@ -1,4 +1,35 @@
-title
+header img
 {
-    color: blue;
+    width: 150px;
 }
+
+header nav
+{
+    padding-left: 60%;
+    font-size: 20px;
+    margin-top: -30px;
+}
+
+span
+{
+    font-size: 25px;
+    
+}
+
+span h2
+{
+    color: #ef5466;
+}
+
+div img
+ {
+     width: 600px;
+     margin-left: 50%;
+     margin-top: -22%;
+ }
+
+ section img
+ {
+     width: 300px;
+     margin-left: 10%;
+ }
