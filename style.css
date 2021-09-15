@@ -67,3 +67,34 @@ section h1
     margin-left: 60%;
 }
 
+#toujoursavecvous
+{
+    background-color: #ef5466;
+}
+
+#toujoursavecvous h1
+{
+    margin-left: 46%;
+    color: white;
+    font-size: 40px;
+}
+
+#toujoursavecvous p 
+{
+    margin-left: 46%;
+    color: white;
+    font-size: 20px; 
+}
+
+#profitez h1
+{
+    text-align: center;
+    font-size: 45px;
+}
+
+#profitez p
+{
+    text-align: center;
+    font-size: 13px;
+    color: #8e8e94; 
+}
