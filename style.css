@@ -47,29 +47,6 @@ section h1
      font-size: 42px;
  }
 
- #toute
- {
-    margin-left: 35%;
-    
- }
-
- #bibliothèque
- {
-    margin-left: 35%;
- }
-
- #wifi
-
-{
-    margin-left: 60%;
-    margin-top: -22%;
-}
-
-#ressemble 
-{
-    margin-left: 60%;
-}
-
 #toujoursavecvous
 {
     background-color: #ef5466;
@@ -296,6 +273,7 @@ section h1
 {
     margin-left: 150px;
     margin-top: 100px;
+   
     
 }
 
@@ -323,7 +301,7 @@ nav a
     text-decoration:none; 
     color:black;
     font-weight: bold;
-    justify-content: space-around;
+
 
 }
 
@@ -336,3 +314,51 @@ div a
 {
     text-decoration:none; 
 }
+
+header div
+{
+    margin-left: 50%;
+    justify-content:center;
+    
+}
+
+button
+{
+    border-radius: 10px;
+}
+
+nav button 
+{
+    color:white;
+    background-color: teal;
+}
+
+#toute
+{
+margin-left: 430px;
+margin-top: -500px;
+}
+
+#bibliothèque
+{
+    margin-left: 430px;
+}
+
+#wifi
+{
+    margin-left: 830px;
+    margin-top: -315px;
+}
+
+#ressemble
+{
+    margin-left: 830px;
+    margin-top: -10px;
+}
+
+section
+{
+  background-color: #f9f9f9; 
+}
+
+#
