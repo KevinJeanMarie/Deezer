@@ -26,15 +26,17 @@ span h2
 
 div img
  {
-     width: 600px;
-     margin-left: 50%;
+     width: 450px;
+     margin-left: 60%;
      margin-top: -22%;
+    
  }
 
  section img
  {
-     width: 300px;
+     width: 250px;
      margin-left: 10%;
+     
  }
 
 section h1
@@ -59,7 +61,7 @@ section h1
 
 {
     margin-left: 60%;
-    margin-top: -21%;
+    margin-top: -22%;
 }
 
 #ressemble 
@@ -95,6 +97,127 @@ section h1
 #profitez p
 {
     text-align: center;
-    font-size: 13px;
+    font-size: 11px;
     color: #8e8e94; 
+}
+
+#abonnement1
+{
+    border: 2px solid;
+  padding: 30px;
+  margin: 60px;
+  width: 220px;
+  height: 350px;
+  text-align: center;
+  border-width:3px;
+    border-style:inset;
+    border-color: #f9f9f9;
+    border-left-width: 3px;
+    margin-left: 20%;
+        
+}
+
+#abonnement2
+
+{
+    border: 2px solid;
+    padding: 30px;
+    margin: 60px;
+    width: 230px;
+    height: 400px;
+    text-align: center;
+    border-width:3px;
+      border-style:inset;
+      border-color: #f9f9f9;
+      border-left-width: 3px;
+      margin-left: 40%;
+      margin-top: -32%;
+        background-color: #2d96c8;  
+        color:white;
+}
+
+#abonnement3
+
+{
+    border: 2px solid;
+    padding: 30px;
+    margin: 60px;
+    width: 230px;
+    height: 400px;
+    text-align: center;
+    border-width:3px;
+      border-style:inset;
+      border-color: #f9f9f9;
+      border-left-width: 3px;
+      margin-left: 61%;
+      margin-top: -35%;
+}
+
+#conditions
+{
+    color: #8e8e94; 
+    text-align: center;
+    font-size: 12px;
+}
+
+#abonnement
+{
+    border: solid 2px;
+    padding: 30px;
+    margin: 80px;
+    width: 1200px;
+    text-align: center;
+    border-width:3px;
+      border-color: red;
+      border-left-width: 3px;
+      margin-left: 7%;
+      
+}
+
+#hifi
+{
+    border: solid 2px;
+    padding: 30px;
+    margin: 80px;
+    width: 1200px;
+    text-align: center;
+    border-width:3px;
+      border-color: red;
+      border-left-width: 3px;
+      margin-left: 7%;
+      
+}
+
+#abonnement6
+{
+    border: solid 2px;
+    padding: 30px;
+    margin: 80px;
+    width: 1200px;
+    text-align: center;
+    border-width:3px;
+      border-color: red;
+      border-left-width: 3px;
+      margin-left: 7%;
+      
+}
+
+#abonnement h1
+{
+    text-align: left;
+    font-size: 25px;
+    margin-left: 83px;
+}
+
+#abonnement h2
+{
+    margin-top: -49px;
+    font-size: 30px;
+    margin-left: -520px;
+    color: #ef5466;
+}
+
+#abonnement p 
+{
+    margin-left: -580px;
 }
