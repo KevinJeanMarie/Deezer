@@ -8,6 +8,7 @@ header nav
     padding-left: 65%;
     font-size: 20px;
     margin-top: -30px;
+    
 }
 
 span h1
@@ -164,13 +165,18 @@ section h1
 {
     border: solid 2px;
     padding: 30px;
-    margin: 80px;
+    margin: 10px;
     width: 1200px;
+    height: 90px;
     text-align: center;
     border-width:3px;
-      border-color: red;
+      
       border-left-width: 3px;
       margin-left: 7%;
+      margin-top: 3%;
+      background-color: #f9f9f9;
+      border-color: #f9f9f9;
+
       
 }
 
@@ -178,13 +184,15 @@ section h1
 {
     border: solid 2px;
     padding: 30px;
-    margin: 80px;
+    margin: 10px;
     width: 1200px;
     text-align: center;
     border-width:3px;
-      border-color: red;
+      border-color:#f9f9f9;
       border-left-width: 3px;
       margin-left: 7%;
+      height: 90px;
+      background-color: #f9f9f9;
       
 }
 
@@ -192,13 +200,15 @@ section h1
 {
     border: solid 2px;
     padding: 30px;
-    margin: 80px;
+    margin: 10px;
     width: 1200px;
     text-align: center;
     border-width:3px;
-      border-color: red;
+      border-color: #f9f9f9;
       border-left-width: 3px;
       margin-left: 7%;
+      height: 90px;
+      background-color: #f9f9f9;
       
 }
 
@@ -207,6 +217,7 @@ section h1
     text-align: left;
     font-size: 25px;
     margin-left: 83px;
+    margin-top: -15px;
 }
 
 #abonnement h2
@@ -220,4 +231,96 @@ section h1
 #abonnement p 
 {
     margin-left: -580px;
+    margin-top: -19px;
+}
+
+#abonnement a
+{
+    margin-left: -945px;
+}
+
+#abonner a
+{
+    
+    margin-left: 745px;
+    
+}
+
+#hifi h1
+{
+    text-align: left;
+    font-size: 25px;
+    margin-left: 83px;
+}
+
+#hifi p 
+{
+    margin-left: -700px;
+    margin-top: -10px;
+    
+}
+
+#hifi a
+{
+    margin-left: 745px;
+    
+}
+
+#abonnement6 h1
+{
+    text-align: left;
+    font-size: 25px;
+    margin-left: 83px;
+}
+
+#abonnement6 h2
+{
+    margin-top: -49px;
+    font-size: 30px;
+    margin-left: -520px;
+    color: #ef5466;
+}
+
+#abonnement6 p 
+{
+    margin-left: -700px;
+    margin-top: -10px;
+}
+
+#abonnement6 a
+{
+    margin-left: 745px;
+}
+
+#deezerfin
+{
+    margin-left: 150px;
+    margin-top: 100px;
+    
+}
+
+#explorer
+{
+    margin-left: 480px;
+    margin-top: -299px;
+}
+
+#quisommesnous
+{
+    margin-left: 780px; 
+    margin-top: -245px;
+}
+
+#legalfin
+{
+    margin-left: 1100px;
+    margin-top: -190px;
+    
+}
+
+nav a
+{
+    text-decoration:none; 
+    color:black;
+    
 }
